@@ -1,0 +1,29 @@
+/*
+
+Custom Styles for SOH - Learning Project
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+
+body{
+	font-family: 'Josefin Slab', serif;
+}
+
+.headers{
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+}
+
+.top-header{
+	font-size: 42px;
+	font-weight: 700;
+}
+.sec-header{
+	font-size: 36px;
+	font-weight: 600;
+	text-align: center;
+}
+
+
